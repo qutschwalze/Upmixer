@@ -57,6 +57,20 @@ This project is open-source software licensed under the **GPLv3 License**.
 - **Open Source:** You are free to use, modify, and distribute this software under the terms of the GNU General Public License v3.0.
 - **Commercial Integration:** If you wish to use this code in a proprietary (closed-source) commercial product, please contact me for a commercial license agreement.
 
+
+## macOS Gatekeeper / Notarization (Important)
+
+This installer/package may be **unsigned** / **not notarized**. On macOS, Gatekeeper may show a warning such as
+“can’t be opened because the developer cannot be verified”.
+
+**How to install anyway:**
+1. Right-click the `.pkg` file
+2. Choose **Open**
+3. Confirm the dialog and proceed with the installer
+
+This is common for open-source projects that are not signed/notarized with an Apple Developer ID.
+You can download the `.pkg` from the **GitHub Releases** page.
+
 ## 🤝 Contributing
 
 Contributions are welcome!
