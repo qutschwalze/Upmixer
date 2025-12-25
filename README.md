@@ -27,7 +27,7 @@
 
 ### For Musicians & Producers (Pre-built)
 Don't want to compile code? You can download the ready-to-use installer here:
-👉 **[Download Installer (macOS)](LINK_TO_YOUR_RELEASES_OR_GUMROAD)**
+👉 **[Download Installer (macOS)](https://github.com/qutschwalze/Upmixer/releases)**
 *(Consider supporting the development if you find this tool useful!)*
 
 ### For Developers (Build from Source)
